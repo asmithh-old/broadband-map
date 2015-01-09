@@ -1,4 +1,6 @@
-#for broadbandmap.py:
+#someday we will have a cool visualization.
+
+##for broadbandmap.py:
 
 okay, so there's all this code here. basically what all this code does is take demographic data and broadband availability data from broadbandmap.gov and finds the empirical distribution [1] of percent of households with broadband internet [2] given the following demographic metrics: racial diversity [3]; economic diversity [4]; and population density [5]. 
 
@@ -15,7 +17,7 @@ okay, so there's all this code here. basically what all this code does is take d
 you can input a county code or a tuple of (population density, racial entropy, economic diversity) to return the empirical distribution for broadband access in areas with similar population density, racial entropy, and economic diversity.
 this will be in the form of [for n in [0:10], the probability for a community with these characteristics, approximately (n * 10)% of its population will have broadband access]
 
-#to run:
+##to run:
 try:
 
 - 02261: Valdez-Cordova Census Area, Alaska
