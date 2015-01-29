@@ -82,7 +82,7 @@ empiricalArrayMarkov = normalize(empiricalArray, norm='l1', axis=0)
 #generally, a markov matrix (also called a stochastic matrix), can be used to express the transition probabilities between states of a markov chain [1]. here the states are the number of broadband providers, and the time steps are the stages the chain goes through.
 
 #[1] a markov chain represents the evolution of a random variable over time. at time = 0 we know its state; the markov matrix represents the transition between states at time steps. take a look at http://en.wikipedia.org/wiki/Markov_chain. markov matrices have steady states that are the solution to the equation Ax = x (alternatively the eigenvector for lambda = 1) where A is a markov matrix and x is a column vector. as time goes to infinity, the state of the markov chain approaches the steady state vector. all markov matrices are guaranteed to have such a steady state. see also http://en.wikipedia.org/wiki/Stochastic_matrix.
-print np.sum(empiricalArrayMarkov, axis = 0)
+#print np.sum(empiricalArrayMarkov, axis = 0)
 print empiricalArrayMarkov
 
 #for each bin (r, g, h) corresponding to different ranges of values of population density, gini index, and entropy of race distributions, we calculate a markov matrix from the available data as we just did for the empirical array (which is a nationally representative transition model)

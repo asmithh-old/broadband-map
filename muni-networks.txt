@@ -1,0 +1,493 @@
+Ketchikan AK KPU Telecommunications cable
+Kotlik AK Kotlik cable
+Statewide AK Rural Alaska Video E-Health Network (RAVEN) inet
+White Mountain AK White Mountain cable
+Opelika AL Opelika fiber
+Opp AL Opp Cablevision cable
+Scottsboro AL Scottsboro EPB cable
+Sylacauga AL Sylacauga cable
+Conway AR Conway Corporation cable
+Paragould AR Paragould Light Water and Cable cable
+Sells AZ Tohono O'odham Last-Mile FTTH and Broadband Wireless Network partial
+Anaheim CA Anaheim dark
+Anaheim CA Anaheim Fiber inet
+Burbank CA Burbank Water and Power partial
+Glendale CA Glendale dark
+Humboldt County CA Digital Redwoods inet
+Loma Linda CA Loma Linda dark
+Loma Linda CA Loma Linda Connected Community fiber
+Lompoc CA City of Lompoc (LompocNet) inet
+Long Beach CA Long Beach dark
+Mendocino County CA Mendocino Community Network inet
+Palo Alto CA Palo Alto Fiber dark
+Pasadena CA Pasadena dark
+San Bruno CA San Bruno Municipal Cable TV cable
+San Francisco CA SF Fiber question
+Santa Clara CA Santa Clara partial
+Santa Monica CA Santa Monica City Net partial
+Santa Monica CA Santa Monica Fiber partial
+Shafter CA City of Shafter, California partial
+Truckee CA Truckee Donner Public Utility District dark
+Vernon CA Vernon Light & Power fiber
+Cortez CO Cortez Community Network partial
+Durango CO Durango dark
+Glenwood Springs CO Glenwood Springs Community Broadband Network (GSCBN) partial
+Longmont CO NextLight fiber
+0Bristol CT Bristol CT inet
+East Hartford CT Connecticut Education Network dark
+Manchester CT Manchester Wireless inet
+Fort Pierce FL FPUAnet Communications partial
+Gainesville FL GATOR NET partial
+Hobe Sound FL Martin County Dark Fiber dark
+Indiantown FL Martin County Dark Fiber dark
+Jacksonville FL Jacksonville iNet inet
+Jensen Beach FL Martin County Dark Fiber dark
+Jupiter Island FL Martin County Dark Fiber dark
+Lakeland FL Lakeland dark
+Leesburg FL Leesburg partial
+New Smyrna Beach FL Utilities Commission, City of New Smyrna Beach inet
+Ocala FL Ocala Utility Services partial
+Ocean Breeze Park FL Martin County Dark Fiber dark
+Palm Beach County FL Palm Beach County partial
+Palm City FL Martin County Dark Fiber dark
+Palm Coast FL Palm Coast FiberNET partial
+Port Salerno FL Martin County Dark Fiber dark
+Quincy FL NetQuincy fiber
+Sewall's Point FL Martin County Dark Fiber dark
+Stuart FL Martin County Dark Fiber dark
+Tallahassee FL Tallahassee dark
+Valparaiso FL Valparaiso Broadband cable
+Baconton GA Community Network Services - Camilla cable
+Baker County GA SGRITA Rural Last-mile Infrastructure Project Last-mile partial
+Cairo GA Community Network Services - Cairo (Syrup City) cable
+Calhoun GA CALNET partial
+Calhoun County GA SGRITA Rural Last-mile Infrastructure Project Last-mile partial
+Camilla GA Community Network Services - Camilla cable
+Cartersville GA Fibercom partial
+Catoosa County GA OptiLink partial
+Columbia County GA Columbia County Community Broadband Network partial
+Dalton GA OptiLink fiber
+Doerun GA City of Doerun cable
+Douglasville GA Douglas County School System Fiber inet
+Dublin GA Dublin partial
+Early County GA SGRITA Rural Last-mile Infrastructure Project Last-mile partial
+Elberton GA Elberton Utilities cable
+Flintstone GA EPB Fiber Optics fiber
+Forsyth GA Forsyth Cablenet cable
+LaGrange GA LaGrange Telecommunications Department partial
+Miller County GA SGRITA Rural Last-mile Infrastructure Project Last-mile partial
+Mitchell County GA SGRITA Rural Last-mile Infrastructure Project Last-mile partial
+Monroe GA Monroe Utilities Network cable
+Moultrie GA Community Network Services - Moultrie cable
+Murray County GA OptiLink partial
+Pelham GA Community Network Services - Pelham (Pelnet) cable
+Rossville GA EPB Fiber Optics fiber
+Sandersville GA Sandersville FiberLink partial
+Thomasville GA Community Network Services - Thomasville cable
+Tifton GA Tifton dark
+Whitfield County GA OptiLink partial
+Wildwood GA EPB Fiber Optics fiber
+Algona IA Algona Municipal Utilities cable
+Alta IA Altatec cable
+Bellevue IA Bellevue fiber
+Cedar Falls IA Cedar Falls Utilities fiber
+Cedar Falls IA Cedar Falls Utilities - rural expansion partial
+Coon Rapids IA Coon Rapids Municipal Utilities cable
+Grundy Center IA Grundy Center Municipal Light & Power cable
+Harlan IA Harlan Municipal Utilities cable
+Hartley IA The Community Agency cable
+Hawarden IA HITEC - Hawarden Integrated
+Technology, Energy, & Communication cable
+Independence IA Independence Light & Power, Telecommunications cable
+Indianola IA Indianola partial
+Laurens IA Laurens Municipal Power and Communications cable
+Lenox IA Lenox fiber
+Manning IA Manning Municipal Communication and Television System Utility cable
+Mapleton IA Mapleton Communications cable
+Muscatine IA MachLink cable
+Osage IA Osage Municipal Utilities cable
+Paullina IA The Community Agency cable
+Primghar IA The Community Agency cable
+Reinbeck IA Reinbeck Telecom cable
+Sanborn IA The Community Agency cable
+Spencer IA Spencer Municipal Utilities fiber
+Webster City IA Webster City dark
+Ammon ID Ammon partial
+Idaho Falls ID Circa dark
+Plummer ID Coeur d'Alene Reservation FTTH Project Last-mile Non-remote partial
+Aurora IL Onlight Aurora partial
+Aurora IL OnLight Aurora dark
+Champaign IL Urbana-Champaign Big Broadband UCB partial
+DeKalb County IL DeKalb Advancement of Technology Authority Broadband partial
+Evanston IL Evanston partial
+Highland IL Highland Communication Services fiber
+LaSalle County IL DeKalb Advancement of Technology Authority Broadband partial
+Princeton IL Princeton Municipal Utilities partial
+Rochelle IL Rochelle Municipal Utilities partial
+Rock Falls IL Rock Falls partial
+Urbana IL Urbana-Champaign Big Broadband UCB partial
+Anderson IN Anderson Municipal Light and Power partial
+Auburn IN Auburn Essential Services fiber
+Lebanon IN Lebanon Utilities cable
+Mishawaka IN Saint Joe Valley MetroNet dark
+South Bend IN Saint Joe Valley MetroNet dark
+Westfield IN City of Westfield partial
+Chanute KS Chanute partial
+Lenexa KS Lenexa Fiber dark
+Ottawa KS Ottawa Network partial
+White Cloud KS Iowa Tribe of Kansas and Nebraska Fiberto-the- Premise partial
+Barbourville KY Barbourville cable
+Bardstown KY Bardstown Cable cable
+Bowling Green KY Bowling Green Municipal Utility partial
+Corinth KY City of Williamstown partial
+Frankfort KY Frankfort Plant Board cable
+Franklin KY Franklin Municipal FiberNET partial
+Glasgow KY Glasgow Electric Power Board cable
+Grant County KY City of Williamstown partial
+Hopkinsville KY Energy Net cable
+Monticello KY Community Telecom Services cable
+Murray KY Murray Electric System cable
+Owen County KY City of Williamstown partial
+Owensboro KY OMU Online partial
+Paducah KY Paducah Power System partial
+Russellville KY Russellville EPB SmartNet fiber
+Williamstown KY City of Williamstown cable
+Lafayette LA Lafayette Utilities System fiber
+Braintree MA Braintree Electric Light Department cable
+Chicopee MA Chicopee Electric Light partial
+Holyoke MA Holyoke Gas & Electric Co. partial
+Leverett MA LeverettNet fiber
+Norwood MA Norwood Light Broadband cable
+Russell MA Russell Municipal Cable cable
+Shrewsbury MA Shrewsbury Electric and Cable Operations cable
+South Hadley MA Five College Fiber Optic Network inet
+Taunton MA Taunton Municipal Lightning Plant partial
+Worcester MA Worcester Municipal Fiber Loop inet
+Carroll County MD Carroll County Broadband dark
+Columbia MD Howard County Fiber Network dark
+Dayton MD Howard County Fiber Network dark
+Easton MD EastonOnline cable
+Elkridge MD Howard County Fiber Network dark
+Ellicot City MD Howard County Fiber Network dark
+Fulton MD Howard County Fiber Network dark
+Highland MD Howard County Fiber Network dark
+Savage MD Howard County Fiber Network dark
+Coldwater MI CBPU cable
+Crystal Falls MI City of Crystal Falls cable
+Holland MI Holland Fiber Network fiber
+Negaunee MI City of Negaunee Dept. of Public Works cable
+Norway MI City of Norway CATV System cable
+Sebewaing MI Sebewaing Light & Water fiber
+Wyandotte MI Wyandotte cable
+Bagley MN Bagley Public Utilities fiber
+Barnesville MN Barnesville Municipal Utilities partial
+Belle Plaine MN Scott County Fiber Network dark
+Bingham Lake MN SMBS - Bingham lake fiber
+Brewster MN SMBS - Brewster fiber
+Carver MN CarverLink dark
+Chanhassen MN CarverLink dark
+Chaska MN Chaska.Net partial
+Cologne MN CarverLink dark
+Crosslake MN Crosslake Communications fiber
+Eagan MN Access Eagan partial
+Elko New Market MN Scott County Fiber Network dark
+Hamburg MN CarverLink dark
+Heron Lake MN SMBS - Heron Lake fiber
+Jackson MN SMBS - Jackson fiber
+Jordan MN Scott County Fiber Network dark
+Lake County MN Lake County partial
+Lakefield MN SMBS - Lakefield fiber
+Mayer MN CarverLink dark
+Monticello MN Monticello Fiber Network fiber
+New Germany MN CarverLink dark
+New Prague MN Scott County Fiber Network dark
+Norwood Young America MN CarverLink dark
+Okabena MN SMBS - Okabena fiber
+Pine City MN Pine City Fiber Optic Backbone partial
+Prior Lake MN Scott County Fiber Network dark
+Round Lake MN SMBS - Round Lake fiber
+Savage MN Scott County Fiber Network dark
+Shakopee MN Scott County Fiber Network dark
+Silver Bay MN Lake County Fiber Network partial
+St. Louis Park MN St. Louis Park inet
+Two Harbors MN Lake County Fiber Network partial
+Victoria MN CarverLink dark
+Waconia MN CarverLink dark
+Watertown MN CarverLink dark
+Westbrook MN Westbrook Municipal Light & Power cable
+Wilder MN SMBS - Wilder fiber
+Windom MN Windomnet fiber
+Kahoka MO Kahoka cable
+Marshall MO Marshall fiber
+North Kansas City MO liNKCity fiber
+Poplar Bluff MO City of Poplar Bluff Municipal Utilities cable
+Springfield MO SpringNet partial
+Collins MS Collins Communications cable
+5Asheville NC ERC Broadband dark
+Chapel Hill NC Chapel Hill Fiber Optic Services inet
+Cornelius NC MI-Connection cable
+Davidson NC MI-Connection cable
+Mooresville NC MI-Connection cable
+Morganton NC Morganton cable
+Salisbury NC Fibrant fiber
+Sylva NC BalsamWest FiberNET partial
+Tryon NC PANGAEA partial
+Wilson NC Greenlight fiber
+South Sioux City NE South Sioux City Municipal Network inet
+Cheshire NH Fast Roads dark
+Claremont NH Fast Roads dark
+Enfield NH Fast Roads partial
+Fitzwilliam NH Fast Roads dark
+Goshen NH Fast Roads dark
+Hanover NH Fast Roads dark
+Keene NH Fast Roads dark
+Lebanon NH Fast Roads dark
+Lyme NH Fast Roads dark
+Marlow NH Fast Roads dark
+New London NH Fast Roads dark
+Newport NH Fast Roads dark
+Orford NH Fast Roads dark
+Richmond NH Fast Roads dark
+Rindge NH Fast Roads partial
+Springfield NH Fast Roads dark
+Sunapee NH Fast Roads dark
+Swanzey NH Fast Roads dark
+Glassboro NJ Glassboro Municipal Area Network inet
+Vineland NJ Vineland Metropolitan Area Network inet
+Churchill NV CC Communications fiber
+Bristol Center NY Axcess Ontario dark
+Bristol Springs NY Axcess Ontario dark
+Canandaigua NY Axcess Ontario dark
+Cheshire NY Axcess Ontario dark
+Clifton Springs NY Axcess Ontario dark
+East Bloomfield NY Axcess Ontario dark
+Farmington NY Axcess Ontario dark
+Fishers NY Axcess Ontario dark
+Geneva NY Axcess Ontario dark
+6Gorham NY Axcess Ontario dark
+Hogansburg NY St. Regis Mohawk Tribe Connect (Economic Development for the st Century) partial
+Honeoye NY Axcess Ontario dark
+Hopewell NY Axcess Ontario dark
+Manchester NY Axcess Ontario dark
+Naples NY Axcess Ontario dark
+New York City NY New York City Wireless Network NYCWiN inet
+Phelps NY Axcess Ontario dark
+Rushville NY Axcess Ontario dark
+Stanley NY Axcess Ontario dark
+Victor NY Axcess Ontario dark
+West Bloomfield NY Axcess Ontario dark
+Akron OH OneCommunity partial
+Ashtabula OH OneCommunity partial
+Barberton OH OneCommunity partial
+Bryan OH Bryan Municipal Utilities cable
+Butler County OH Butler County inet
+Canton OH OneCommunity partial
+Cincinnati OH Hamilton County inet
+Cleveland OH OneCommunity partial
+Cleveland Heights OH OneCommunity partial
+Dover OH Dover Technology dark
+Dublin OH Dublink+ partial
+Eastlake OH OneCommunity partial
+Elyria OH OneCommunity partial
+Gahanna OH Gahanna inet
+Hamilton OH Hamilton Miami U inet
+Lorain OH OneCommunity partial
+Mayfield Village OH OneCommunity - Mayfield Village partial
+Medina County OH Medina County dark
+Mentor OH OneCommunity partial
+Middletown OH Middletown Miami U inet
+New Albany OH BlueAlbany partial
+Sandusky OH OneCommunity partial
+Wadsworth OH City of Wadsworth Electric & Communications Dept. cable
+Wadsworth OH OneCommunity dark
+Woodsfield OH Woodsfield Municipal Power cable
+Wooster OH OneCommunity partial
+Ponca City OK Ponca City Technology Services partial
+Sallisaw OK DiamondNet fiber
+Ashland OR Ashland Fiber Network cable
+Canby OR Clackamas Broadband Express dark
+Damascus OR Clackamas Broadband Express dark
+Douglas County OR Oregon South Central Regional Fiber Consortium Lighting the Fiber Middlemile Project partial
+Estacada OR Clackamas Broadband Express dark
+Eugene OR Eugene dark
+Gladstone OR Clackamas Broadband Express dark
+Government Camp OR Clackamas Broadband Express dark
+Happy Valley OR Clackamas Broadband Express dark
+Independence OR MINET fiber
+Klamath County OR Oregon South Central Regional Fiber Consortium Lighting the Fiber Middlemile Project partial
+Lane County OR Oregon South Central Regional Fiber Consortium Lighting the Fiber Middlemile Project partial
+Milwaukie OR Clackamas Broadband Express dark
+Molalla OR Clackamas Broadband Express dark
+Monmouth OR MINET fiber
+Mulino OR Clackamas Broadband Express dark
+Oregon City OR Clackamas Broadband Express dark
+Sandy OR SandyNet partial
+Sherwood OR Sherwood Fiber partial
+Springfield OR Springfield Utility Board dark
+The Dalles OR Q-Life Network partial
+Wilsonville OR Clackamas Broadband Express dark
+Beaver County PA Beaver County Fiber inet
+Kutztown PA Hometown Utilicom fiber
+Pitcairn PA Pitcairn Power/Community Cable cable
+Hartsville SC Hartsville question
+Oconee County SC Oconee FOCUS (Fiber Optics Creating Unified Solutions) partial
+Orangeburg County SC Orangeburg partial
+Aberdeen SD CityNet (Dakota Interconnect) inet
+Beresford SD Beresford Municipal Telephone/Cablevision cable
+Brookings SD Swiftel fiber
+Bristol TN Bristol TN Essential Services fiber
+Chattanooga TN EPB Fiber Optics fiber
+Clarksville TN Clarksville CDE Lightband fiber
+8Columbia TN CPWS Broadband cable
+East Ridge TN EPB Fiber Optics fiber
+Erwin TN Erwin Utilities partial
+Fayetteville TN Fayetteville Public Utilities cable
+Jackson TN Jackson Energy Authority fiber
+Johnson City TN BVU OptiNet partial
+Lookout Mountain TN EPB Fiber Optics fiber
+Morristown TN FiberNET fiber
+Nashville TN NESNet dark
+Pulaski TN PES Energize fiber
+Red Bank TN EPB Fiber Optics fiber
+Ridgeside TN EPB Fiber Optics fiber
+Signal Mountain TN EPB Fiber Optics fiber
+Tullahoma TN Tullahoma Utilities Board fiber
+Greenville TX GEUS cable
+Lindon UT Utah Telecommunications Open Infrastructure Agency (UTOPIA) partial
+Brigham City UT Utah Telecommunications Open Infrastructure Agency (UTOPIA) fiber
+Centerville UT Utah Telecommunications Open Infrastructure Agency (UTOPIA) HQ fiber
+Layton UT Utah Telecommunications Open Infrastructure Agency (UTOPIA) partial
+Midvale UT Utah Telecommunications Open Infrastructure Agency (UTOPIA) partial
+Murray UT Utah Telecommunications Open Infrastructure Agency (UTOPIA) partial
+Orem UT Utah Telecommunications Open Infrastructure Agency (UTOPIA) partial
+Payson UT Utah Telecommunications Open Infrastructure Agency (UTOPIA) partial
+Perry UT Utah Telecommunications Open Infrastructure Agency (UTOPIA) partial
+Spanish Fork UT Spanish Fork Community Network cable
+Tremonton UT Utah Telecommunications Open Infrastructure Agency (UTOPIA) fiber
+West Valley City UT Utah Telecommunications Open Infrastructure Agency (UTOPIA) HQ partial
+Abingdon VA BVU OptiNet fiber
+Arlington County VA ConnectArlington dark
+Atkins VA BVU OptiNet partial
+Bluefield VA BVU OptiNet partial
+9Bristol VA BVU OptiNet fiber
+Castlewood VA BVU OptiNet partial
+Cedar Bluff VA BVU OptiNet partial
+Chillhowie VA BVU OptiNet partial
+Clay Pool Hill VA BVU OptiNet partial
+Cleveland VA BVU OptiNet partial
+Clinchco VA BVU OptiNet partial
+Clintwood VA BVU OptiNet partial
+Damascus VA BVU OptiNet partial
+Danville VA nDanville partial
+Duffield VA LENOWISCO Planning District Commission partial
+Eastern Virginia VA Eastern Shore of Virginia Broadband Authority question
+Emery-Meadow View VA BVU OptiNet partial
+Galax VA Wired Road partial
+Glad Spring VA BVU OptiNet partial
+Grundy VA BVU OptiNet partial
+Haysi VA BVU OptiNet partial
+Hiltons VA BVU OptiNet fiber
+Honaker VA BVU OptiNet partial
+Independence VA BVU OptiNet partial
+Lebanon VA BVU OptiNet partial
+Luray VA Page County Broadband Project partial
+Marion VA BVU OptiNet partial
+Martinsville VA Martinsville Information Network - MINET partial
+Nelson County VA Nelson County Virginia Broadband Project partial
+Page County VA Page County Broadband Project partial
+Richlands VA BVU OptiNet partial
+Rockbridge County VA Connect the Dots: Rockbridge Broadband Initiative partial
+Rural Retreat VA BVU OptiNet partial
+Saltville VA BVU OptiNet partial
+Shenandoah VA Page County Broadband Project partial
+St Paul VA BVU OptiNet partial
+Stanley VA Page County Broadband Project partial
+Staunton VA Staunton dark
+Sugar Grove VA BVU OptiNet partial
+Tazewell VA BVU OptiNet partial
+Troutdale VA BVU OptiNet partial
+Vansant VA BVU OptiNet partial
+Wytheville VA BVU OptiNet partial
+Barnard VT ECFibernet (East Central Vermont Community Fiber Network) partial
+Bethel VT ECFibernet (East Central Vermont Community Fiber Network) partial
+Braintree VT ECFibernet (East Central Vermont Community Fiber Network) partial
+Brookfield VT ECFibernet (East Central Vermont Community Fiber Network) partial
+Hancock VT ECFibernet (East Central Vermont Community Fiber Network) dark
+North Randolph VT ECFibernet (East Central Vermont Community Fiber Network) partial
+Pomfret VT ECFibernet (East Central Vermont Community Fiber Network) partial
+Reading VT ECFibernet (East Central Vermont Community Fiber Network) dark
+Rochester VT ECFibernet (East Central Vermont Community Fiber Network) dark
+Royalton VT ECFibernet (East Central Vermont Community Fiber Network) partial
+Sharon VT ECFibernet (East Central Vermont Community Fiber Network) partial
+Stockbridge VT ECFibernet (East Central Vermont Community Fiber Network) dark
+Aberdeen WA Grays Harbor PUD partial
+Ardenvoir WA Chelan PUD partial
+Bauer's Landing WA Douglas County Community Network inet
+Benton City WA Benton PUD Broadband partial
+Benton County WA Benton PUD Broadband partial
+Blewett WA Chelan PUD partial
+Bridgeport WA Douglas County Community Network inet
+Bridgeport Bar WA Douglas County Community Network inet
+Burlington WA Mt Vernon Fiber Optic Services partial
+Cashmere WA Chelan PUD fiber
+Chelan WA Chelan PUD partial
+Chelan County WA Chelan PUD fiber
+Cheney WA Cheney Fiber Network partial
+Chumstick WA Chelan PUD partial
+Clallam County WA Clallam PUD partial
+Coulee City WA Grant PUD partial
+Coulee Dam WA Grant PUD partial
+Desert Aire WA Grant PUD fiber
+Desert Canyon WA Douglas County Community Network inet
+Douglas County WA Douglas County Community Network inet
+Dryden WA Chelan PUD fiber
+East Wenatchee WA Douglas County Community Network inet
+Edmonds WA City of Edmonds dark
+Entiat WA Chelan PUD partial
+Ephrata WA Grant PUD partial
+Franklin County WA Franklin PUD Broadband partial
+Grand Coulee WA Grant PUD fiber
+Grant County WA Grant PUD fiber
+Hartline WA Grant PUD fiber
+Kennewick WA Benton PUD Broadband fiber
+Kitsap County WA Kitsap PUD fiber
+Leavenworth WA Chelan PUD fiber
+Mansfield WA Douglas County Community Network inet
+Mason County WA Mason County PUD partial
+Mattawa WA Grant PUD fiber
+Meritt WA Chelan PUD partial
+Monitor WA Chelan PUD fiber
+Moses Lake WA Grant PUD partial
+Mt Vernon WA Mt Vernon Fiber Optic Services partial
+Newport WA Pend Oreille County Public Utility District (PUD) Broadband Network partial
+Okanogan County WA Okanogan PUD fiber
+Orondo WA Douglas County Community Network inet
+Pacific County WA Pacific County PUD# partial
+Pasco WA Franklin PUD Broadband fiber
+Pend Oreille County WA Pend Oreille PUD fiber
+Peshastin WA Chelan PUD fiber
+Port of Skagit County WA Mt Vernon Fiber Optic Services partial
+Prosser WA Benton PUD Broadband fiber
+Quincy WA Grant PUD fiber
+Royal City WA Grant PUD fiber
+Sequim WA Clallam PUD partial
+Shelton WA Mason County Public Utilities District partial
+Soap Lake WA Grant PUD fiber
+Sun Cove WA Douglas County Community Network inet
+Tacoma WA Click! Network cable
+Warden WA Grant PUD fiber
+Waterville WA Douglas County Community Network inet
+Wenatchee WA Chelan PUD fiber
+Wilson Creek WA Grant PUD fiber
+Yodelin WA Chelan PUD partial
+Eau Claire WI Chippewa Internetworking Consortium (CINC) inet
+Oconto WI Oconto Falls Municipal Utilities cable
+Platteville WI Chippewa Internetworking Consortium (CINC) partial
+Reedsburg WI Reedsburg Utility Commission fiber
+Reedsburg WI Reedsburg Utility Commission - rural expansion partial
+Shawano WI Shawano Municipal Utilities fiber
+Sun Prairie WI Sun Prairie Utilities partial
+Superior WI Chippewa Internetworking Consortium (CINC) partial
+Wausau WI Chippewa Internetworking Consortium (CINC) partial
+Philippi WV Philippi Communications System fiber
+Powell WY Powell Fiber Optic Network fiber
