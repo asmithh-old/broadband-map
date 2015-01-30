@@ -52,6 +52,7 @@ for m in metroAreasDict.keys():
                     geoId = r['geographyId']
                     if stateFips[state] == stateName:
                         bbPen[city] = {}
+                        bbPen[city]['state'] = state
                         bbPen[city]['geoId'] = geoId
                         bbPen[city]['pop density'] = float(resDict['Results'][0]['population'])/float(resDict['Results'][0]['landArea'])
                         bbPen[city]['bb pen'] = metroAreasDict[m]
@@ -150,6 +151,9 @@ muniRhos = []
 muniPens = []
 notMuniRhos = []
 notMuniPens = []
+deltas = []
+hasMuniNames = []
+notMuniNames = []
 
 for c in cityDemog.keys():
     #for all places with muni networks, if the place has broadband penetration data available, find its population density and broadband penetration.
@@ -183,8 +187,11 @@ for c in cityDemog.keys():
         if muniPen != 'key error' and noMuniPen != 'key error' and cityDemog[c]['muni network']!= 'dark':
             #here we are only plotting pairs of tuples that have muni networks that aren't dark fiber (the fiber is installed but not operational yet)
             print cityDemog[c]['muni network']
+            hasMuniNames.append(c)
+            notMuniNames.append(bestMatch + ' ' + bbPen[bestMatch]['state'])
             muniRhos.append(float(muniRho))
             muniPens.append(float(muniPen))
+            deltas.append(float(muniPen)-float(noMuniPen))
             notMuniRhos.append(float(noMuniRho))
             notMuniPens.append(float(noMuniPen))
             
@@ -195,10 +202,14 @@ print
 print notMuniRhos
 print
 print notMuniPens
+print deltas
+print hasMuniNames
+print notMuniNames
 #we plot log of population density (population density distributes according to log-normal distribution and also looks a lot more linear when it's a log plot...)
 #versus percent of broadband penetration (defined as the percent of people subscribing to broadband internet.)
-plt.scatter(np.log2(muniRhos), muniPens, c = 'g')
-plt.scatter(np.log2(otMuniRhos), notMuniPens, c = 'r')
+#plt.scatter(np.log2(muniRhos), muniPens, c = 'g')
+#plt.scatter(np.log2(otMuniRhos), notMuniPens, c = 'r')
+plt.scatter(np.log2(muniRhos), deltas, c='b')
 plt.show()
 
 
